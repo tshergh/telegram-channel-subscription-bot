@@ -1,1 +1,1 @@
-worker: python3 pdf.py
+worker: python3 channel_subscription_bot.py
